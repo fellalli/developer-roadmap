@@ -6,5 +6,4 @@
 
 - **Unknown Threats**, on the other hand, refer to new, emerging, or sophisticated threats that have not been previously encountered or documented. These can include zero-day vulnerabilities, which are software flaws not yet known to the vendor or the public, or advanced malware designed to evade traditional defenses. Unknown threats require more advanced detection techniques, such as behavioral analysis, machine learning, or heuristic-based detection, to identify anomalies and suspicious activities that don't match known patterns.
 
-Learn more from the following resources:
-
+Visit the following resources to learn more:

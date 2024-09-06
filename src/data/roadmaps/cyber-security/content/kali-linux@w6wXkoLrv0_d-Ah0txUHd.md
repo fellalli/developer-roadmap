@@ -1,7 +1,7 @@
 # Kali Linux
 
-Kali Linux is a specialized Linux distribution that is designed for penetration testing, security auditing, and related information security tasks. Originating from the Debian distribution, Kali Linux is equipped with a vast array of tools that are used for ethical hacking purposes. It is an open-source project that provides users with the means to test the security of systems and networks by simulating attacks in a controlled environment. 
+Kali Linux is a Debian-based Linux distribution specifically designed for penetration testing, digital forensics, and security research. It comes pre-installed with a wide range of tools and utilities for tasks such as vulnerability assessment, network analysis, and exploitation. Kali Linux is widely used by cybersecurity professionals and ethical hackers to test and secure systems, and it provides an environment for conducting comprehensive security assessments.
 
-With over 600 pre-installed penetration-testing programs, Kali Linux offers tools for various security-related tasks, such as network analysis, vulnerability scanning, and forensic analysis. Its development is overseen by Offensive Security, a company known for their contributions to the field of information security. Kali Linux is highly customizable, allowing users to tailor the system to their specific needs, and supports a wide range of hardware platforms. It is a powerful resource for professionals in the cybersecurity field, as well as for those who are passionate about learning and practicing ethical hacking techniques.
+Visit the following resources to learn more:
 
 - [@official@Kali Linux](https://www.kali.org/)
